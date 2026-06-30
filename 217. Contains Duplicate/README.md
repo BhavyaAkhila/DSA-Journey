@@ -29,10 +29,13 @@ Input: nums = [1,1,1,3,3,4,3,2,4,2]
 Output: true
 #code explanation
 we can solve contains duplicate by using two pointers approach
+first sort the array // Arrays.sort(nums)
 two pointers are left and right
- left starts at index 0
-right starts at index 1
-while right is less than nums.length
-if left equals to right(duplicate value is found) then return true
-or else increment left and false 
-if entire array is checked nd no duplicate element is found then return false
+ left starts at index 0 // int left=0;
+right starts at index 1 // int right=1;
+while right is less than nums.length // while(right<nums.length){
+if left equals to right(duplicate value is found) then return true // if(nums[left] == nums[right]){ 
+// return true;
+or else increment left and false // left++; 
+// right++;
+if entire array is checked nd no duplicate element is found then return false // return false;
