@@ -14,7 +14,7 @@ Input: nums = [0]
 Output: [0]
 
 #code explanation or approach.
-we use implement two pointers for this problem.
+we implement two pointers for this problem.
 implement left at index 0 of the array nums.
 implement right at the end of the array(nums.length).
 if right is not equal to 0 then use temp.
