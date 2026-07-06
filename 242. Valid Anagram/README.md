@@ -16,4 +16,4 @@ Output: false
 #code explanation
 Strings in Java cannot be sorted directly, so we first convert them into character arrays.
 Arrays.sort() will sort the string in alphabetical order.
-then check if string length and characters are same btw s and t. return Arrays.equals(a,b)-> if equals then returns true or else false
+then check if string length and characters are same btw s and t. return Arrays.equals(a,b)-> if equals then returns true or else false.
