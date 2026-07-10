@@ -8,7 +8,7 @@ Example 1:
 
 Input: s = "A man, a plan, a canal: Panama"
 Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
+Explanation: "amanaplanacanalpanama" is a palindrome
 Example 2:
 
 Input: s = "race a car"
