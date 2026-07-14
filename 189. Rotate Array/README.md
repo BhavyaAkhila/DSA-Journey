@@ -24,3 +24,5 @@ Constraints:
 1 <= nums.length <= 105
 -231 <= nums[i] <= 231 - 1
 0 <= k <= 105
+#approach
+to rotate array,first reverse entire array,next reverse only k array,next reverse remaining array,then use for loop,left and right pointers.use temp to swap.increment left and decrement right
