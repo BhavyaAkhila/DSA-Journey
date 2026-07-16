@@ -7,25 +7,25 @@ You can return the answer in any order.
 
  
 
-##Input
+## Input
 nums = [2,7,11,15], target = 9
-##Output
+## Output
 [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 Example 2:
 
-##Input
+## Input
 nums = [3,2,4], target = 6
-##Output
+## Output
 [1,2]
 
-##Constraints:
+## Constraints:
 
 2 <= nums.length <= 104
 -109 <= nums[i] <= 109
 -109 <= target <= 109
 
-#code explanation
+# code explanation
 by two sum we can understand that sum of two integers should be equal to target.
 so we can implement by using two pointers pattern
 implement two pointers i and j. 
