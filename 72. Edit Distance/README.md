@@ -1,3 +1,4 @@
+# 72. Edit Distance
 Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
 
 You have the following three operations permitted on a word:
@@ -7,18 +8,20 @@ Delete a character
 Replace a character
  
 
-Example 1:
-
-Input: word1 = "horse", word2 = "ros"
-Output: 3
+## Input
+word1 = "horse", word2 = "ros"
+## Output
+3
 Explanation: 
 horse -> rorse (replace 'h' with 'r')
 rorse -> rose (remove 'r')
 rose -> ros (remove 'e')
 Example 2:
 
-Input: word1 = "intention", word2 = "execution"
-Output: 5
+## Input
+word1 = "intention", word2 = "execution"
+## Output
+5
 Explanation: 
 intention -> inention (remove 't')
 inention -> enention (replace 'i' with 'e')
