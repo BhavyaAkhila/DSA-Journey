@@ -6,7 +6,7 @@ worker[j] is the ability of jth worker (i.e., the jth worker can only complete a
 Every worker can be assigned at most one job, but one job can be completed multiple times.
 
 For example, if three workers attempt the same job that pays $1, then the total profit will be $3. If a worker cannot complete any job, their profit is $0.
-Return the maximum profit we can achieve after assigning the workers to the jobs.
+Return the maximum profit we can achieve after assigning the workers to the jobs
 
  
 
