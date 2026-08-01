@@ -15,3 +15,18 @@ class Solution {
         return false;
     }
 }
+//using hashset
+import java.util.Arrays;
+
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
+        HashSet<Integer> ele=new HashSet<>();
+        for(int num:nums){
+            if(ele.contains (num))
+            return true;
+            ele.add(num);
+        }
+        return false;
+    }
+}
+
