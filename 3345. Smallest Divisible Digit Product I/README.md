@@ -7,9 +7,7 @@ n = 10, t = 2
 ## Output
 10
 
-Explanation:
-
-The digit product of 10 is 0, which is divisible by 2, making it the smallest number greater than or equal to 10 that satisfies the condition.
+Explanation: The digit product of 10 is 0, which is divisible by 2, making it the smallest number greater than or equal to 10 that satisfies the condition.
 
 
 
@@ -19,6 +17,4 @@ n = 15, t = 3
 ## Output
 16
 
-Explanation:
-
-The digit product of 16 is 6, which is divisible by 3, making it the smallest number greater than or equal to 15 that satisfies the condition.
+Explanation: The digit product of 16 is 6, which is divisible by 3, making it the smallest number greater than or equal to 15 that satisfies the condition.
