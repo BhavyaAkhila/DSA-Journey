@@ -4,7 +4,7 @@ class Solution {
 
         int start=0,end=0,result=0,count=0;
 
-        while(end<nums.length){
+        while(end<nums.length)
 
             map.put(nums[end],map.getOrDefault(nums[end],0)+1);    
 
