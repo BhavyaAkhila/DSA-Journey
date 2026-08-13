@@ -3,7 +3,7 @@ You are given a 0-indexed string s. You are also given a 0-indexed string queryC
 
 The ith query updates the character in s at index queryIndices[i] to the character queryCharacters[i].
 
-Return an array lengths of length k where lengths[i] is the length of the longest substring of s consisting of only one repeating character after the ith query is performed
+Return an array lengths of length k where lengths[i] is the length of the longest substring of s consisting of only one repeating character after the ith query is performed.
 
  
 
