@@ -1,5 +1,5 @@
 # 3090. Maximum Length Substring With Two Occurrences
-Given a string s, return the maximum length of a substring such that it contains at most two occurrences of each character.
+Given a string s, return the maximum length of a substring such that it contains at most two occurrences of each character
  
 
 
