@@ -1,3 +1,4 @@
+# 3720. Lexicographically Smallest Permutation Greater Than Target
 You are given two strings s and target, both having length n, consisting of lowercase English letters.
 
 Return the lexicographically smallest permutation of s that is strictly greater than target. If no permutation of s is lexicographically strictly greater than target, return an empty string.
