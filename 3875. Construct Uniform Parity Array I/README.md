@@ -1,5 +1,5 @@
 # 3875. Construct Uniform Parity Array I
-You are given an array nums1 of n distinct integers.
+You are given an array nums1 of n distinct integers
 
 You want to construct another array nums2 of length n such that the elements in nums2 are either all odd or all even.
 
