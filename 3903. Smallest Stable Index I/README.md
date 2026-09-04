@@ -7,7 +7,7 @@ In other words:
 
 max(nums[0..i]) is the largest value among the elements from index 0 to index i.
 min(nums[i..n - 1]) is the smallest value among the elements from index i to index n - 1.
-An index i is called stable if its instability score is less than or equal to k.
+An index i is called stable if its instability score is less than or equal to k
 
 Return the smallest stable index. If no such index exists, return -1.
 
